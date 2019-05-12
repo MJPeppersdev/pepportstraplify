@@ -1,6 +1,10 @@
 ---
 contentType: about
 path: /about
-title: About Me
+title: About me
 ---
-My name is Michael J Peppers, and this is a placeholder About page.
+![Profile-Pic](/files/mjpeppersdevbest.png)
+
+# Michael J Peppers
+
+Full-stack Developer, Visual Designer, DevOps Engineer.
